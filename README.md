@@ -26,7 +26,8 @@ Die Fortbewegung funktioniert via Teleportation.
 - Oculus Rift
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+#### Mockup:
+<img src= "ReadmeFiles/mockup-IWAG-VR.jpg">
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
