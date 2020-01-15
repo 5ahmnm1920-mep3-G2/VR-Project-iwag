@@ -34,6 +34,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 
 ### Third party material:
 - [Unity 3D-Template](https://github.com/5ahmnm1920-mep3-G2/unity-2019.1.14f1-3D-template)
+- [VR Setup Guide](https://www.youtube.com/watch?v=5C6zr4Q5AlA)
 
 ### Project state: 
 Setup phase, getting started. [2/100%]
