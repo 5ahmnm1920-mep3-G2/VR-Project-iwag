@@ -26,13 +26,14 @@ Die Fortbewegung funktioniert via Teleportation.
 - Oculus Rift
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+#### Mockup:
+<img src= "ReadmeFiles/mockup-IWAG-VR.jpg">
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material:
-- Unity 3D-Template(https://github.com/5ahmnm1920-mep3-G2/unity-2019.1.14f1-3D-template)
+- [Unity 3D-Template](https://github.com/5ahmnm1920-mep3-G2/unity-2019.1.14f1-3D-template)
 
 ### Project state: 
 Setup phase, getting started. [2/100%]
