@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 205258910}
   - component: {fileID: 205258909}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Globe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
