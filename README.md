@@ -37,7 +37,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 - [VR Setup Guide](https://www.youtube.com/watch?v=5C6zr4Q5AlA)
 
 ### Project state: 
-Setup phase, getting started. [2/100%]
+Whiteboxing done, key models included, not implemented,script both research and implementation missing. Works in VR. [36/100%]
 
 ### Limitations: 
 
