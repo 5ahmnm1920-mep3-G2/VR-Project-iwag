@@ -35,6 +35,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Third party material:
 - [Unity 3D-Template](https://github.com/5ahmnm1920-mep3-G2/unity-2019.1.14f1-3D-template)
 - [VR Setup Guide](https://www.youtube.com/watch?v=5C6zr4Q5AlA)
+- [Glow](https://docs.unity3d.com/Packages/com.unity.postprocessing@2.3/manual/Bloom.html)
 
 ### Project state: 
 Whiteboxing done, key models included, not implemented,script both research and implementation missing. Works in VR. [36/100%]
