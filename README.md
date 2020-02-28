@@ -10,15 +10,15 @@ Die Challenge ist es, im Klassenraum einen Schraubenzieher zu finden, welcher au
 Die Fortbewegung funktioniert via Teleportation.
 
 ### Controls
-- Press and hold joystick to teleport to any point on the teleport area in the room
+- Press and hold joystick to teleport to any of the two teleport points in the room
 - Look around by moving your head with the Oculus Rift headset
 - Press and hold the x or a button to grab objects
-- Tighten screws by executing a twist motion when in range of a screw whilst grabbing a screwdriver 
+- Tighten screws by dropping the screwdriver onto the screw
 
 ### Development platform: 
 - Windows 10 64 bit, GTX 1070 MaxQ, Intel i7 Hexa-Core
 - Unity3D 2019.1.14f, API Compatibility Level .NET Standart 2.0, Scripting Runtime Version .NET 4.x Equivalent
-- Visual Studio COmmunity 2019 16.4.0
+- Visual Studio Community 2019 16.4.0
 - Oculus Rift
 
 ### Target platform: 
