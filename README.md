@@ -1,7 +1,7 @@
-# Template Repository for Unity3D version 2019.1.14f1
+# Minimal VR Project - iwag
 
 ### Project description: 
-Das Projekt ist anhnad der Wörter "physics", "power" und "search" aufgebaut.
+Das Projekt ist anhand der Wörter "physics", "power" und "search" aufgebaut.
 
 In der Mitte eines Physikklassenraums steht ein Globus, welcher anfangs unbeleuchtet ist. Auf dem Lehrerpult steht ein elektrischer Kreislauf, der damit verbunden ist, allerdings ist eine Schraube locker.
 
@@ -35,13 +35,19 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Third party material:
 - [Unity 3D-Template](https://github.com/5ahmnm1920-mep3-G2/unity-2019.1.14f1-3D-template)
 - [VR Setup Guide](https://www.youtube.com/watch?v=5C6zr4Q5AlA)
-- [Glow](https://www.youtube.com/watch?v=5B-JoycbeSg)
+- [Mat Change Code](https://www.youtube.com/watch?v=dJB07ZSiW7k)
 
 ### Project state: 
-Whiteboxing done, key models included, not implemented,script both research and implementation missing. Works in VR. [36/100%]
+Models Implemented. Script working. Works in VR. [100/100%]
 
 ### Limitations: 
+No guide through game, material change only triggered when screwdriver is actually released from controller. Teleportation only possibly to two points. Screwdriver therefore not pickupable if thrown off limits.
 
 ### Lessons Learned: 
+- What Renderpipelines are
+- How to change materials on condition
+
+### Documentation
+Check out the project's documentation [here](ReadmeFiles/DOKUMENTATION VR-iwag.pdf)
 
 Copyright by Ida :)
