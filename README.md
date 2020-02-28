@@ -48,6 +48,6 @@ No guide through game, material change only triggered when screwdriver is actual
 - How to change materials on condition
 
 ### Documentation
-Check out the project's documentation [here](ReadmeFiles/DOKUMENTATION VR-iwag.pdf)
+Check out the project's documentation [here](https://github.com/5ahmnm1920-mep3-G2/VR-Project-iwag/blob/master/ReadmeFiles/DOKUMENTATION%20VR-iwag.pdf).
 
 Copyright by Ida :)
