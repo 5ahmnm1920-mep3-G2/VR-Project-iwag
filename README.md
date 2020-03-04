@@ -1,7 +1,7 @@
-# Template Repository for Unity3D version 2019.1.14f1
+# Minimal VR Project - iwag
 
 ### Project description: 
-Das Projekt ist anhnad der Wörter "physics", "power" und "search" aufgebaut.
+Das Projekt ist anhand der Wörter "physics", "power" und "search" aufgebaut.
 
 In der Mitte eines Physikklassenraums steht ein Globus, welcher anfangs unbeleuchtet ist. Auf dem Lehrerpult steht ein elektrischer Kreislauf, der damit verbunden ist, allerdings ist eine Schraube locker.
 
@@ -10,15 +10,15 @@ Die Challenge ist es, im Klassenraum einen Schraubenzieher zu finden, welcher au
 Die Fortbewegung funktioniert via Teleportation.
 
 ### Controls
-- Press and hold joystick to teleport to any point on the teleport area in the room
+- Press and hold joystick to teleport to any of the two teleport points in the room
 - Look around by moving your head with the Oculus Rift headset
 - Press and hold the x or a button to grab objects
-- Tighten screws by executing a twist motion when in range of a screw whilst grabbing a screwdriver 
+- Tighten screws by dropping the screwdriver onto the screw
 
 ### Development platform: 
 - Windows 10 64 bit, GTX 1070 MaxQ, Intel i7 Hexa-Core
 - Unity3D 2019.1.14f, API Compatibility Level .NET Standart 2.0, Scripting Runtime Version .NET 4.x Equivalent
-- Visual Studio COmmunity 2019 16.4.0
+- Visual Studio Community 2019 16.4.0
 - Oculus Rift
 
 ### Target platform: 
@@ -35,13 +35,19 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Third party material:
 - [Unity 3D-Template](https://github.com/5ahmnm1920-mep3-G2/unity-2019.1.14f1-3D-template)
 - [VR Setup Guide](https://www.youtube.com/watch?v=5C6zr4Q5AlA)
-- [Glow](https://www.youtube.com/watch?v=5B-JoycbeSg)
+- [Mat Change Code](https://www.youtube.com/watch?v=dJB07ZSiW7k)
 
 ### Project state: 
-Whiteboxing done, key models included, not implemented,script both research and implementation missing. Works in VR. [36/100%]
+Models Implemented. Script working. Works in VR. [100/100%]
 
 ### Limitations: 
+No guide through game, material change only triggered when screwdriver is actually released from controller. Teleportation only possibly to two points. Screwdriver therefore not pickupable if thrown off limits.
 
 ### Lessons Learned: 
+- What Renderpipelines are
+- How to change materials on condition
+
+### Documentation
+Check out the project's documentation [here](https://github.com/5ahmnm1920-mep3-G2/VR-Project-iwag/blob/master/ReadmeFiles/DOKUMENTATION%20VR-iwag.pdf).
 
 Copyright by Ida :)
